@@ -1,4 +1,4 @@
-# project3
+# Web Interface for Base Station (v1)
 
 ## Project setup
 ```
